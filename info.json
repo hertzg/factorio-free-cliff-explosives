@@ -1,0 +1,10 @@
+{
+  "name": "hertz-free-cliff-explosives",
+  "version": "0.0.1",
+  "title": "Free Cliff Explosives",
+  "author": "hertz",
+  "homepage": "https://github.com/hertzg/factorio-free-cliff-explosives",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 1.0", "? space-age"],
+  "description": "Cliff explosives are free and craft faster."
+}
